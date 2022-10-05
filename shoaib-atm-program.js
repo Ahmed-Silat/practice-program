@@ -30,4 +30,4 @@ function atmWithDrawal2(amount) {
     }
     return { fiveHundreds, fiveThousands, oneThousands };
   }
-  console.log(atmWithDrawal2(18000));
+  console.log(atmWithDrawal2(11500));
